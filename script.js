@@ -1,4 +1,4 @@
-
+                            // Stopwatch Web Application
 
 let startTime = 0;
 let elapsedTime = 0;
@@ -51,3 +51,4 @@ document.getElementById('start').addEventListener('click', start);
 document.getElementById('pause').addEventListener('click', pause);
 document.getElementById('reset').addEventListener('click', reset);
 document.getElementById('lap').addEventListener('click', lap);
+
