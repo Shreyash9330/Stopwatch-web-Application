@@ -5,8 +5,8 @@ A simple, responsive **Stopwatch** web app built with vanilla HTML, CSS and Java
 ---
 
 ## 🚀 Live Demo
-*(If deployed, add the URL here)*  
-`https://<your-username>.github.io/<repo-name>/`
+ 
+`https://github.com/Shreyash9330/Stopwatch-web-Application.git`
 
 ---
 
